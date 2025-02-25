@@ -9,7 +9,8 @@ public class CálculoIMC {
 			
 			//variáveis
 			double Peso, Altura, IMC;
-			
+
+			//entrada
 			System.out.print("Digite o seu peso: ");
 			Peso = scn.nextDouble();
 			
