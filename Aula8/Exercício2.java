@@ -19,10 +19,7 @@ public class Exercício2 {
 				soma = soma + ale1;
 			}
 				
-				System.out.println(soma);
-			
-			
-			
+				System.out.println("A soma dos números gerados é: " + soma);
 			
 	}
 
